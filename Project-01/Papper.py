@@ -1,6 +1,7 @@
 import random
 
 print("================================")
+print("Welcome to the Game")
 print("     ROCK PAPER SCISSORS")
 print("================================")
 
@@ -39,4 +40,4 @@ while True:
     else:
         print("Result: COMPUTER WINS! 🤖")
 
-print("\nGame Over!")
+print("\nGame is not Over you can play untill you win!")
